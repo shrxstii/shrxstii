@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Full+Stack+Developer+💻;Java+%26+Python+Programmer+🌸;AI+%26+ML+Explorer+🤖;Future+AI+Engineer+🚀;Loves+Code+%2B+Creativity+💗" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Full+Stack+Developer+💻;Java+%26+Python+Programmer+🌸;AI+%26+ML+Explorer+🤖;Future+AI+Engineer+🚀;Loves+Code+%2B+Creativity+" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ---
 
-# 🤖 AI / ML Skills 🌸
+# 🤖 AI / ML Skills 
 
 - Machine Learning  💡  
 - Artificial Intelligence Concepts 🤖  
@@ -63,7 +63,7 @@
 
 ---
 
-# 📊 GitHub Stats 💗
+# 📊 GitHub Stats 
 
 <p align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-# 📈 Contribution Graph 🌷
+# 📈 Contribution Graph 
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrxstii&theme=dracula"/>
