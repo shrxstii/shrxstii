@@ -55,7 +55,7 @@
 
 # 🤖 AI / ML Skills 🌸
 
-- Machine Learning Basics 💡  
+- Machine Learning  💡  
 - Artificial Intelligence Concepts 🤖  
 - Python for AI/ML 🐍  
 - Data Analysis 📊  
