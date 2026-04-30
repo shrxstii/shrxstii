@@ -1,98 +1,66 @@
-<p align="center">
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="850px"/>
-</p>
+# Hi 👋, I'm Shristi Upadhyay
 
-<h1 align="center">Hi 👋, I'm Shristi Upadhyay 🌸</h1>
-
-<h3 align="center">
-💻 Full Stack Developer 💗 | 🤖 AI & ML Enthusiast ✨ | 🚀 Future AI Engineer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Full+Stack+Developer+💻;Java+%26+Python+Programmer+🌸;AI+%26+ML+Explorer+🤖;Future+AI+Engineer+🚀;Loves+Code+%2B+Creativity+" />
-</p>
+🎓 Computer Science Student
+💻 Full Stack Developer | AI & Machine Learning Enthusiast
+🚀 Aspiring AI Engineer
 
 ---
 
-# 💖 About Me
+## 👩‍💻 About Me
 
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
-- 💻 Skilled in **Python, Java, JavaScript, C**
-- 🌐 Passionate about **Full Stack Web Development**
-- 🤖 Exploring **AI, ML & Intelligent Systems**
-- 📊 Love working with **Data & Insights**
-- 🎯 Dream Roles:
-  - 🤖 **AI Engineer**
-  - 🧠 **ML Engineer**
-  - 📊 **Data Scientist**
-
-🌸 *Turning ideas into reality with code & creativity.*
+* Currently learning **Artificial Intelligence & Machine Learning**
+* Strong interest in **Data Analytics and Intelligent Systems**
+* Skilled in **Python, Java, JavaScript**
+* Passionate about building **real-world applications**
+* Focused on developing **AI-driven solutions**
 
 ---
 
-# 🌐 Let's Connect 💕
+## 🚀 Featured Project
 
-<p align="center">
+### 🎓 AI-Based Student Performance Prediction System
+
+An AI-powered system that predicts student performance and identifies at-risk students early.
+
+**Key Features:**
+
+* Machine Learning-based Grade Prediction
+* Risk Classification (High / Medium / Low)
+* SHAP-style Explainability
+* AI-based Intervention Suggestions
+* Interactive Dashboard
+* PDF Report Generation
 
 
-<a href="https://www.linkedin.com/in/shristiupadhyay11/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🛠 Tech Stack 💻✨
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,bootstrap,git,github,vscode,nodejs,react" />
-
-</p>
 
 ---
 
-# 🤖 AI / ML Skills 
+## 🛠 Tech Stack
 
-- Machine Learning  💡  
-- Artificial Intelligence Concepts 🤖  
-- Python for AI/ML 🐍  
-- Data Analysis 📊  
-- Model Training 📈  
-
----
-
-# 📊 GitHub Stats 
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shrxstii&theme=rose_pine"/>
-
-</p>
+* Python
+* Java
+* JavaScript
+* HTML, CSS, Bootstrap
+* Flask
+* Pandas
+* Scikit-learn
+* Git & GitHub
 
 ---
 
-# 📈 Contribution Graph 
+## 📈 Current Focus
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrxstii&theme=dracula"/>
-</p>
-
----
-
-# 👀 Profile Views 💕
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shrxstii&label=Profile%20Views&color=ff69b4&style=flat"/>
-</p>
+* Improving Machine Learning models
+* Exploring advanced AI concepts
+* Building full-stack AI applications
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+## 📫 Connect With Me
 
----
+* LinkedIn: https://www.linkedin.com/in/shristiupadhyay11/
 
-<h3 align="center">✨ Learning.Experimenting.Growing 💗</h3>
+
+
+
+⭐ Always learning and building meaningful projects
